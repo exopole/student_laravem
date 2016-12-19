@@ -1,0 +1,9 @@
+
+@import "materialize/materialize";
+
+.input-margin{
+  margin-bottom: 2rem;
+}
+.status{
+  @extend .blue-text, .text-lighten-4;
+}
